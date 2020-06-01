@@ -21,15 +21,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it (You can
     $ cd taks_api
     $ npm install
 
-## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
-
 MongoRoles: atlasAdmin@admin
 User: Dmian
+Password: [Preguntar]
 
 HOST_CONNECT: mongodb+srv://Dmian:<password>@cluster0-sgs5e.mongodb.net/test
