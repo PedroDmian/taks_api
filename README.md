@@ -26,3 +26,9 @@ User: Dmian
 Password: [Preguntar]
 
 HOST_CONNECT: mongodb+srv://Dmian:<password>@cluster0-sgs5e.mongodb.net/test
+
+---
+
+## Url Deeployment
+
+    URL: https://taks-list.herokuapp.com/api
